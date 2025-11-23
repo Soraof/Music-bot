@@ -1,0 +1,22 @@
+# Базы данных
+*.db
+music_links.db
+
+# CSV файлы
+*.csv
+music_links.csv
+
+# Секретные файлы
+Token_s.py
+Admin.py
+*.env
+config.py
+
+# Python кэш
+__pycache__/
+*.pyc
+*.pyo
+
+# Системные файлы
+.DS_Store
+EOF
