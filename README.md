@@ -1,45 +1,45 @@
-# 🎵 Music Collection Bot | Проект #2
+# 🎵 Music Collection Bot |#2
 
 
-> 🤫 **Привет, Яндекс!** Это мой второй проект. Мечтаю работать с вами! 🎯
+>  **Hello, Yandex!** This is my second project. I dream of working with you! 🎯
 #//
-## 🎯 О проекте
+## 🎯 About the project
 #//
-Telegram-бот для сбора музыкальных треков на школьные дискотеки. 
-Пользователи предлагают треки через Яндекс.Музыку, бот сохраняет в базу и строит статистику.
+Telegram bot for collecting music tracks for school discos. 
+Users offer tracks via Yandex.Music, the bot saves them to the database and builds statistics.
 #//
-**Реальная задача** Организовать музыкальное голосование для школьного мероприятия.
+**The real challenge** Organize a musical vote for a school event.
 #//
-## ✨ Возможности
+## ✨ Features
 #//
-- 🎧 Приём ссылок на Яндекс.Музыку
-- 📊 Статистика и топ участников
-- 🎭 Система стикеров для обратной связи  
-- 🔮 Печеньки с предсказаниями
-- 🔐 Админ-панель с экспортом данных
-- 💾 Авто-бэкапы в CSV
-#//
-
-
-## 🏗️ Архитектура
-#//
-📁 Модульная структура (чистый код!)
-├── 🚀 bot.py - Главный контроллер
-├── 📁 core/ - Бизнес-логика
-├── 📁 utils/ - Вспомогательные функции
-└── 📁 config/ - Конфигурация
+- 🎧 Receiving links to Yandex.Music
+- 📊 Statistics and top participants
+- 🎭 Sticker system for feedback  
+- 🔮 Fortune cookies
+- Admin panel with data export
+- Auto backups in CSV format
 #//
 
-📊 Технологии
-Python - основной язык
 
-python-telegram-bot - фреймворк для бота
+## 🏗️ Architecture
+#//
+📁 Modular structure (clean code!)
+├── bot.py - Main controller
+├── 📁 core/ - Business logic
+├── 📁 utils/ - Auxiliary functions
+└── 📁 config/ - Configuration
+#//
 
-SQLite3 - база данных
+📊 Technology
+Python is the main language
 
-CSV - экспорт данных
+python-telegram-bot - a framework for a bot
 
-Modular Architecture - чистая архитектура
+SQLite3 - database
+
+CSV - data export
+
+Modular Architecture - pure architecture
 
 
-*​‌‌‌⁡⁢⁢⁣⁡⁣⁣⁢‍‍‍Мечтаю стать ᵀᵉᶜʰ ᴸᵉᵃᵈ в ᵇᵃᶜᵏᵉⁿᵈ-разработке в Яндексе⁡*
+*​‌‌‌⁡⁢⁢⁣⁡⁣⁣⁢‍‍‍My dream is to become a Yandex employee*
