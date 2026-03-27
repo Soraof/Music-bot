@@ -2,15 +2,16 @@
 
 
 >  **Hello, Yandex!** This is my second project. I dream of working with you! 🎯
-#//
-## 🎯 About the project
-#//
-Telegram bot for collecting music tracks for school discos. 
+#// ## 🎯 About the project
+
+
+#// Telegram bot for collecting music tracks for school discos. 
 Users offer tracks via Yandex.Music, the bot saves them to the database and builds statistics.
-#//
-**The real challenge** Organize a musical vote for a school event.
-#//
-## ✨ Features
+
+#// **The real challenge** Organize a musical vote for a school event.
+
+#// ## ✨ Features
+
 #//
 - 🎧 Receiving links to Yandex.Music
 - 📊 Statistics and top participants
